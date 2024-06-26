@@ -22,14 +22,14 @@ This project focuses on predicting stock prices using Long Short-Term Memory (LS
 
 <b>Training Data (2010-2022):</b>
 
-MAE: 9.49%
-MSE: 15083.69
-RMSE: 122.82
-R2 Score: 0.97
+MAE: 9.49%<br>
+MSE: 15083.69<br>
+RMSE: 122.82<br>
+R2 Score: 0.97<br>
 
 <h2> Prediction for 2023</h2>
 
-MAE: 12.13%
-MSE: 45897.90
-RMSE: 214.24
-R2 Score: 0.89
+MAE: 12.13%<br>
+MSE: 45897.90<br>
+RMSE: 214.24<br>
+R2 Score: 0.89<br>
